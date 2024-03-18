@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerWinService", "ScannerWinService\ScannerWinService.csproj", "{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ScannerPolaris_WinSetup", "ScannerPolaris_WinSetup\ScannerPolaris_WinSetup.vdproj", "{498985A6-1AFD-4DC9-A26A-D1336872899B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498985A6-1AFD-4DC9-A26A-D1336872899B}.Debug|Any CPU.ActiveCfg = Debug
+		{498985A6-1AFD-4DC9-A26A-D1336872899B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CDFAEEB-7FAC-4B22-9A86-35C3DDE7BC59}
+	EndGlobalSection
+EndGlobal
