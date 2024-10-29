@@ -15,6 +15,7 @@ namespace ScannerWinService.ComponentCalsses
         public const string DEVICE_NOT_FOUND_MSG = "الماسح الضوئي غير متصل بجهاز الكمبيوتر";
         public const string SUCESS_SCAN_MSG = "تمت عملية المسح الضوئي بنجاح";
         public const string ErrorExpstion_MSG = "حصل خطا بالنظام ، يرجى مراجعة مدير النطام";
+        public const string ErrorNoMOrePaper_MSG = "لقد نفذ ورق المغذي ،الرجاء وضع الورق والمحاولة مرى اخرى";
 
 
         /// <summary>
@@ -25,8 +26,8 @@ namespace ScannerWinService.ComponentCalsses
         public const string SUCESS_SCAN_CODE = "200";
 
         // Configration Image
-        public const int IMAGE_HEIGHT = 1170;
-        public const int IMAGE_WIDTH = 850;
+        public const int IMAGE_HEIGHT = 3000;
+        public const int IMAGE_WIDTH = 3000;
         public const int IMAGE_QUALITY = 100;
 
     }

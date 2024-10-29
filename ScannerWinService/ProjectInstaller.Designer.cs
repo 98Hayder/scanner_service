@@ -41,9 +41,10 @@ namespace ScannerWinService
             // serviceInstaller1
             // 
             this.serviceInstaller1.Description = "this service to create and runing scanner system";
-            this.serviceInstaller1.DisplayName = "ScannerPolaris_Service";
-            this.serviceInstaller1.ServiceName = "ScannerPolaris_Service";
-            this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic; 
+            this.serviceInstaller1.DisplayName = "ScannerGoldenCastle_Service";
+            this.serviceInstaller1.ServiceName = "ScannerGoldenCastle_Service";
+            this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
+            
             // 
             // ProjectInstaller
             // 

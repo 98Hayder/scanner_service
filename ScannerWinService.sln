@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.33214.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerWinService", "ScannerWinService\ScannerWinService.csproj", "{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ScannerPolaris_WinSetup", "ScannerPolaris_WinSetup\ScannerPolaris_WinSetup.vdproj", "{498985A6-1AFD-4DC9-A26A-D1336872899B}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WindowsSetupGoldenCastle", "WindowsSetupGoldenCastle\WindowsSetupGoldenCastle.vdproj", "{C6D03AAF-5989-47D4-8308-E28B512526D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C3760E2-AAD9-42F1-B2CD-0303EBE200DB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{498985A6-1AFD-4DC9-A26A-D1336872899B}.Debug|Any CPU.ActiveCfg = Debug
-		{498985A6-1AFD-4DC9-A26A-D1336872899B}.Release|Any CPU.ActiveCfg = Release
+		{C6D03AAF-5989-47D4-8308-E28B512526D8}.Debug|Any CPU.ActiveCfg = Debug
+		{C6D03AAF-5989-47D4-8308-E28B512526D8}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
